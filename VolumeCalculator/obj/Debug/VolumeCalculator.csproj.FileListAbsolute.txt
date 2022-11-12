@@ -1,0 +1,11 @@
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\bin\Debug\VolumeCalculator.exe.config
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\bin\Debug\VolumeCalculator.exe
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\bin\Debug\VolumeCalculator.pdb
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.csproj.AssemblyReference.cache
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.Form1.resources
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.Properties.Resources.resources
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.csproj.GenerateResource.cache
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.exe
+C:\Users\NERANJAN\Desktop\Nera's\GithubProjects\VolumeCalculator\VolumeCalculator\obj\Debug\VolumeCalculator.pdb
