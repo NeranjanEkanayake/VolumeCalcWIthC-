@@ -88,16 +88,34 @@ namespace VolumeCalculator
                 case "Cone":
                     value1.Visible= true;
                     value2.Visible= true;
-                    value3.Visible= true;
+                    
                     value1Lbl.Visible= true;
                     value2Lbl.Visible= true;
-                    value3Lbl.Visible= true;
-                    value1Lbl.Text =
+                    
+                    value1Lbl.Text ="Radius:";
+                    value2Lbl.Text = "Height:";
+
                     button1.Visible=true;
                     volume.Visible= true;
                     result.Visible= true; 
-                    
                     break;
+
+                case "Cylinder":
+                    value1.Visible= true;
+                    value2.Visible= true;
+
+                    value1Lbl.Visible= true;
+                    value2Lbl.Visible= true;
+
+                    value1Lbl.Text = "Radius:";
+                    value2Lbl.Text = "Height:";
+
+                    volume.Visible = true;
+                    button1.Visible = true;
+                    result.Visible= true; 
+                    break;
+
+                default: break;
             }
         }
     }
