@@ -23,6 +23,7 @@ namespace VolumeCalculator
             comboBox1.Items.Add("Cube");
             comboBox1.Items.Add("Cuboid");
             comboBox1.Items.Add("Cone");
+            comboBox1.Items.Add("Cylinder");
 
             value1.Hide();
             value2.Hide();
@@ -49,7 +50,55 @@ namespace VolumeCalculator
             volume.Visible= false;
             result.Visible= false;
 
+            switch(this.comboBox1.Text)
+            {
+                case "Sphere":
+                    value1.Visible= true;
+                    value1Lbl.Visible= true;
+                    value1Lbl.Text= "Radius:";
+                    button1.Visible = true;
+                    volume.Visible= true;
+                    result.Visible= true;
+                    break;
 
+                case "Cube":
+                    value1.Visible= true;
+                    value1Lbl.Visible= true;
+                    value1Lbl.Text = "Side:";
+                    button1.Visible= true;
+                    volume.Visible= true;
+                    result.Visible = true;
+                    break;
+
+                case "Cuboid":
+                    value1.Visible= true;
+                    value1Lbl.Visible= true;
+                    value2.Visible = true;
+                    value2Lbl.Visible= true;
+                    value3.Visible= true;
+                    value3Lbl.Visible = true;
+                    value1Lbl.Text = "Width:";
+                    value2Lbl.Text = "Length:";
+                    value3Lbl.Text = "Height:";
+                    button1.Visible= true;
+                    volume.Visible= true; 
+                    result.Visible= true; 
+                    break;
+
+                case "Cone":
+                    value1.Visible= true;
+                    value2.Visible= true;
+                    value3.Visible= true;
+                    value1Lbl.Visible= true;
+                    value2Lbl.Visible= true;
+                    value3Lbl.Visible= true;
+                    value1Lbl.Text =
+                    button1.Visible=true;
+                    volume.Visible= true;
+                    result.Visible= true; 
+                    
+                    break;
+            }
         }
     }
 }
